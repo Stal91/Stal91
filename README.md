@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pedro Henrique</h1>
 <h3 align="center">I'm a student of program analysis and development</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F18F7&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F18F7&vCenter=true&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-349.gif"> 
 </div>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stal91&label=Profile%20views&color=0e75b6&style=flat" alt="stal91" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
