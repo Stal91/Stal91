@@ -6,6 +6,7 @@
 <img src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-349.gif"> 
 </div>
 
+<hr style="border: 1px solid black;">
 <p>Olá, sou o Pedro Henrique, um entusiasta do desenvolvimento backend. Tive meu primeiro contato com programação aos 14 anos e, agora, com 21 anos, estou comprometido em aprimorar minhas habilidades e contribuir para projetos empolgantes no mundo da tecnologia.</p>
 <hr style="border: 1px solid black;">
 
