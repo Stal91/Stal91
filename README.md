@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pedro Henrique</h1>
 <h3 align="center">I'm a student of program analysis and development</h3>
-<img align="center" alt="Space" widht="400" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-349.gif">
-
+<div align="center">
+<img src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-349.gif"> 
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stal91&label=Profile%20views&color=0e75b6&style=flat" alt="stal91" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C# and .NET**
-
-- 📫 How to reach me **https://www.linkedin.com/in/pedro-henrique-gasquez-6a935b246/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stal91&show_icons=true&locale=en" alt="stal91" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stal91&" alt="stal91" /></p>
-
