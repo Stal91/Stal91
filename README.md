@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Henrique</h1>
 <h3 align="center">I'm a student of program analysis and development</h3>
-<img align="right" alt="Space" widht="400" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-349.gif">
+<img align="center" alt="Space" widht="400" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-349.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stal91&label=Profile%20views&color=0e75b6&style=flat" alt="stal91" /> </p>
