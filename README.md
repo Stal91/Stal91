@@ -7,7 +7,8 @@
 </div>
 
 <hr style="border: 1px solid black;">
-<p style="font-size: 20px">Olá, sou o Pedro Henrique, um entusiasta do desenvolvimento backend. Tive meu primeiro contato com programação aos 14 anos e, agora, com 21 anos, estou comprometido em aprimorar minhas habilidades e contribuir para projetos empolgantes no mundo da tecnologia.</p>
+<p>Olá, sou o Pedro Henrique, um entusiasta do desenvolvimento <strong style="font-size: 30px;">backend</strong>. Tive meu primeiro contato com programação aos <strong style="font-size: 30px;">14 anos</strong> e, agora, com <strong style="font-size: 30px;">21 anos</strong>, estou comprometido em aprimorar minhas habilidades e contribuir para projetos empolgantes no mundo da tecnologia.</p>
+
 <hr style="border: 1px solid black;">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stal91&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
